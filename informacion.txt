@@ -1,0 +1,3 @@
+nombre: Gina
+apellidos: Rodriguez
+email: pgrodriguez@uninorte.edu.co
